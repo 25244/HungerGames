@@ -11,4 +11,4 @@
 ### 游戏开发
 该游戏由Unity3D引擎作为游戏开发，Visual Studio 和Visual Studio Code作为编程环境，C#和Python作为编程语言。
 整个游戏场景由关于运行的脚本有两个，一个C#脚本（调用Python），一个Python脚本（被调用用于Unity3D）
-
+![UnityEnvironmentDisplayVideo](https://github.com/25244/HungerGames/blob/master/UnityEnvironmentDisplayVideo.mp4)
