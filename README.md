@@ -5,7 +5,7 @@
 游戏简介：我饿，我馋，我想吃零食。  
 游戏玩法：每个关卡玩家都需要想方设法靠近“黄油零食”来吃掉零食，其中玩家通过键盘的“A”，“W”，“S”，“D”键或者“←”，“↑”，“↓”，“→”键进行移动，鼠标左键进行射击。
 <img width="556" alt="1" src="https://github.com/25244/HungerGames/assets/90137164/7f04003d-1c64-49fd-ac34-d181ef69c112">  
-<img width="556" alt="7" src="https://github.com/25244/HungerGames/assets/90137164/eeeccc56-f8eb-484b-b054-e8b4ec66df90">
+<img width="556" alt="7" src="https://github.com/25244/HungerGames/assets/90137164/eeeccc56-f8eb-484b-b054-e8b4ec66df90">  
 
 ## 2.任务分工
 
