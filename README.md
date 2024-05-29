@@ -15,6 +15,7 @@
 游戏 UI：赵慧君
 
 ## 3.制作说明
+以下展示部分文字内容说明，还有的内容在提供的项目文档中。
 
 ### 3.1 游戏开发
 
@@ -23,7 +24,7 @@
 
 https://github.com/25244/HungerGames/assets/90137164/e0ee2803-0056-4c1c-abc7-cc63ea04b5e4
 
-需要说明的是，该游戏所使用的 python 环境是由 unity3D 提供的 Python For Unity，由于 unity3D 尚未稳定 python 功能，仅提供在编辑环境中`using UnityEditor.Scripting.Python;`能够使用，无法发布。
+需要说明的是，该游戏所使用的 python 环境是由 unity3D 提供的 Python For Unity，由于 unity3D 尚未稳定 python 功能，`using UnityEditor.Scripting.Python;`，仅提供在编辑环境中能够使用，无法发布。
 
 ```C#
 using System.Diagnostics;
@@ -74,7 +75,7 @@ User Layer8：Player
 User Layer9：Ground  
 6.导入\*.unitypackage 文件。  
 一般情况下，这个流程就能正常运行包，而在实际操作过程中，导入包的碰撞器大小发生了变化，无法运行获取参数导致报错等的问题 ，在调整的时候发现出现的意外问题还挺多，也就是导入包的方式得进行多次重新的调整，修改和处理，所以不推荐该运行文件的方法。  
-当然除了导入\*.unitypackage 文件意外，其他的方法已经能够让 Unity3D 和 python 进行结合，并且能够安装 python 所需的模块，并且正常运行，所以仍写下配置过程于方法。
+当然除了导入\*.unitypackage 文件意外，其他的方法已经能够让 Unity3D 和 python 进行结合，能够安装 python 所需的模块，并且正常运行，所以仍写下配置过程的方法。
 
 ### 3.2 游戏美术
 
